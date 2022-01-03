@@ -1,0 +1,28 @@
+{
+  "name": "libraryapp",
+  "version": "1.0.0",
+  "description": "Aplikasi perpustakaan sederhana",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kflmattukz/libraryApp.git"
+  },
+  "keywords": [
+    "perpustakaan"
+  ],
+  "author": "kflmattukz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kflmattukz/libraryApp/issues"
+  },
+  "homepage": "https://github.com/kflmattukz/libraryApp#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
